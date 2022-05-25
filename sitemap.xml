@@ -67,6 +67,13 @@
     </url>
 
     <url>
+        <loc>https://connectingthedotsservices.com/service-Airbnb-Cleaning</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://connectingthedotsservices.com/service-Move-In-Move-Out-Cleaning</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +82,6 @@
 
     <url>
         <loc>https://connectingthedotsservices.com/service-Post-Construction-Cleaning</loc>
-        <lastmod>2022-05-25</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://connectingthedotsservices.com/service-Airbnb-Cleaning</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
